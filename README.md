@@ -35,3 +35,21 @@ Smart-Wi-Fi-Coverage-Optimization/
 │   └── heatmap.png                # Signal strength heatmap
 ├── index.html                     # GitHub Pages portfolio website
 └── README.md                      # Project documentation
+
+---
+
+## 📸 Proje Çıktıları ve Görselleştirmeler
+
+Projeden elde edilen 3D ortam modellemeleri, sinyal ısı haritaları ve optimizasyon sonuçları aşağıda sunulmuştur:
+
+| Sistem Çıktıları ve Isı Haritası | 3D Ortam Simülasyonu |
+|:---:|:---:|
+| <img src="Assets/2.PNG" width="400" alt="Isı Haritası 1" /> | <img src="Assets/3.PNG" width="400" alt="3D Simülasyon 1" /> |
+| <img src="Assets/1.PNG" width="400" alt="Terminal Çıktısı" /> | <img src="Assets/4.PNG" width="400" alt="3D Simülasyon 2" /> |
+
+*(Eğer Assets klasöründeki resim adları 1.PNG, 2.PNG vb. ise bu şekilde sorunsuz açılacaktır.)*
+
+---
+
+## 📊 Proje Posteri
+<img src="Assets/bitirme projesı poster.jpg" width="800" alt="Wi-Fi Optimization Poster" />
