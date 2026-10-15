@@ -48,14 +48,14 @@ Projeden elde edilen 3D ortam modellemeleri, sinyal ısı haritaları ve optimiz
 |:---:|:---:|
 | <img src="Assets/2.PNG" width="400" alt="Isı Haritası 1" /> | <img src="Assets/3.PNG" width="400" alt="3D Simülasyon 1" /> |
 | <img src="Assets/1.PNG" width="400" alt="Terminal Çıktısı" /> | <img src="Assets/4.PNG" width="400" alt="3D Simülasyon 2" /> |
-| <img src="Assets/5.PNG" width="400" alt="Görsel 5" /> | <img src="Assets/7.PNG" width="400" alt="Görsel 7" /> |
+| <img src="Assets/5.PNG" width="400" alt="Görsel 5" /> | <img src="Assets/6.PNG" width="400" alt="Görsel 6" /> |
 
 <p align="center">
   <b>Advanced 3D Ray-Tracing & Obstacle Interaction</b><br>
-  <img src="Assets/7.PNG" width="600" alt="Görsel 8" />
+  <img src="Assets/7.PNG" width="600" alt="Görsel 7" />
 </p>
 
 ---
 
 ## 📊 Proje Posteri
-<img src="Assets/bitirme projesı poster.jpg" width="800" alt="Wi-Fi Optimization Poster" />
+<img src="Assets/poster.jpg" width="800" alt="Wi-Fi Optimization Poster" />
