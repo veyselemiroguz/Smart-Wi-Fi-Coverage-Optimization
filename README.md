@@ -52,7 +52,7 @@ Projeden elde edilen 3D ortam modellemeleri, sinyal ısı haritaları ve optimiz
 
 <p align="center">
   <b>Advanced 3D Ray-Tracing & Obstacle Interaction</b><br>
-  <img src="Assets/8.PNG" width="600" alt="Görsel 8" />
+  <img src="Assets/7.PNG" width="600" alt="Görsel 8" />
 </p>
 
 ---
