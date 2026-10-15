@@ -35,3 +35,5 @@ Smart-Wi-Fi-Coverage-Optimization/
 │   └── heatmap.png                # Signal strength heatmap
 ├── index.html                     # GitHub Pages portfolio website
 └── README.md                      # Project documentation
+## 📊 Project Poster
+![Wi-Fi Optimization Poster](assets/bitirme%20projesı%20poster.jpg)
